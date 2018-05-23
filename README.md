@@ -202,6 +202,7 @@ for url in listUrls:
 ```
 
 ## 三、数据持久化之MySql
+![](http://p20tr36iw.bkt.clouddn.com/wikidata.png)
 ```Python
 import pymysql.cursors
 from urllib import request
